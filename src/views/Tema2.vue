@@ -21,10 +21,10 @@
         h2 2.1 Corte del grano
       
 
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-1
-          img(src='@/assets/curso/tema2/2.svg')
-        .col-lg-11
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+        .col-lg-1.col-md-2.col-6
+          img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema2/2.svg')
+        .col-lg-11.col-md-10
           p.mb-0 Es una técnica visual y física que consiste en cortar una muestra representativa de granos de cacao por la mitad, a lo largo, para observar su interior y determinar el grado de fermentación, presencia de defectos y características internas del grano.
 
       
@@ -53,13 +53,13 @@
               .col-sm-auto.pe-lg-5
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=j4FcVcAug6A" target="_blank")
                   span Ir al sitio
-                  i.fas.fa-circle-play
+                  i.fas.fa-file-video
 
 
-      p.mb-5 La evaluación de la calidad de fermentación del cacao se realiza de la siguiente manera:
+      p.mb-5(data-aos="fade-left") La evaluación de la calidad de fermentación del cacao se realiza de la siguiente manera:
 
 
-      .row.justify-content-center.align-items-stretch.mb-5
+      .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
         .col-lg-4.col-md-6.mb-lg-0.mb-4
           .bg7.p-4.h-100
             .row.justify-content-center.align-items-center.mb-0.mt-lg-2
@@ -83,7 +83,7 @@
                 p.mb-0 #[b c) Inspección:] se examina visualmente el interior de cada grano.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
         .col-lg-5
           .bg5.p-4.mb-lg-0.mb-4
             p.mb-4 Durante la inspección se observan:
@@ -103,10 +103,10 @@
               li.d-flex.mb-0
                 i.fas.fa-leaf
                 p.mb-0 Defectos visibles: presencia de mohos, insectos, granos germinados, partidos o dañados por calor.
-        .col-lg-3.col-md-9.col-10
-          img(src='@/assets/curso/tema2/7.png', alt='')
+        .col-lg-3.col-md-6.col-10
+          img.mb-lg-0.mb-4(src='@/assets/curso/tema2/7.png', alt='')
         .col-lg-4
-          img.img-t.mb-4(src='@/assets/curso/tema2/8.svg', alt='')
+          img.img-t.mb-4.d-none.d-lg-block(src='@/assets/curso/tema2/8.svg', alt='')
           p.mb-3 Finalmente, se calcula el porcentaje de granos:
           ul.lista-ul.mb-3
             li.d-flex.mb-2
@@ -126,15 +126,15 @@
         h2 2.2 Evaluación sensorial
 
       
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-1
-          img(src='@/assets/curso/tema2/9.svg')
-        .col-lg-11
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+        .col-lg-1.col-md-2.col-6
+          img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema2/9.svg')
+        .col-lg-11.col-md-10
           p.mb-4 Consiste en analizar las características organolépticas del grano de cacao o del licor de cacao preparado a partir de la muestra, evaluando atributos como aroma, sabor, textura, astringencia y amargor.
           p.mb-0 El proceso se desarrolla de la siguiente manera:
 
 
-      .row.justify-content-center.align-items-stretch.mb-5
+      .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-left")
         .col-lg-4.col-md-6.mb-lg-0.mb-4
           .bg8.p-4.h-100
             img.mb-4(src='@/assets/curso/tema2/10.png')
@@ -145,17 +145,17 @@
             img.mb-4(src='@/assets/curso/tema2/11.png')
             h4.mb-4.text-center Molienda
             p.mb-0.text-center Los granos tostados se muelen para obtener el licor de cacao (pasta).
-        .col-lg-4.col-md-6.mb-lg-0.mb-4
+        .col-lg-4.col-md-6.mb-lg-0.mb-0
           .bg8.p-4.h-100
             img.mb-4(src='@/assets/curso/tema2/12.png')
             h4.mb-4.text-center Cata
             p.mb-0.text-center El licor se somete a la evaluación de un panel sensorial entrenado.
 
 
-      p.mb-5 Durante la cata se analizan los siguientes atributos:
+      p.mb-5(data-aos="fade-right") Durante la cata se analizan los siguientes atributos:
 
 
-      .row.justify-content-center.align-items-stretch.mb-5
+      .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-left")
         .col-lg-3.col-md-6.mb-lg-0.mb-md-4.mb-0.pe-lg-0
           .bg9.p-4.h-100
             img.mb-4.img-a.img-t(src='@/assets/curso/tema2/13.svg')
@@ -178,7 +178,7 @@
             p.mb-0.text-center Presencia de sabores indeseables como humo, tierra, químicos o notas de fermentación incompleta.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .bg11.p-4
             p.mb-0 El resultado de esta evaluación es un 
@@ -193,12 +193,12 @@
         h2 2.3 Medición de humedad 
 
 
-      .row.justify-content-center.align-items-center.mb-0
-        .col-lg-5
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
+        .col-lg-5.col-md-9.col-10
           img.mb-4.mb-lg-0(src='@/assets/curso/tema2/17.png')
         .col-lg-7
           p.mb-4 Es el análisis que permite determinar el contenido de agua en el grano, lo cual es clave para su almacenamiento seguro y para evitar la aparición de hongos y moho.
-          p.mb-3 Se puede medir rápidamente con un medidor de humedad digital o electrónico.
+          p.mb-lg-3.mb-4 Se puede medir rápidamente con un medidor de humedad digital o electrónico.
           .bg12.p-4
             p.mb-3 El rango recomendado de la humedad:
             ul.lista-ul.mb-3
@@ -218,13 +218,13 @@
       #t_2_4.titulo-segundo.mb-5
         h2 2.4 Detección de impurezas
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           p.mb-4 Consiste en identificar y cuantificar la presencia de materias extrañas o ajenas al grano de cacao, que pueden comprometer la calidad del producto y dañar los equipos industriales.
           .bg5.p-4.mb-4
             p.mb-0.mx-lg-4.my-lg-4 El método consiste en tomar una muestra representativa, 400 gramos como ejemplo; se separan y pesan las impurezas presentes como tierra, piedras, hojas, cáscaras, ramas, plástico, metales; luego se calcula el porcentaje de impurezas. El máximo permitido generalmente es del 1 % al 1.5 % de impurezas por peso, más de eso se considera rechazo del lote o necesidad de limpieza previa.
           p.mb-lg-0.mb-4 Un grano limpio tiene mejor aceptación comercial, menor costo de procesamiento y menos riesgos en la agroindustria.
-        .col-lg-4
+        .col-lg-4.col-md-9.col-10
           img(src='@/assets/curso/tema2/18.png')
 
 
@@ -233,17 +233,17 @@
         h2 2.5 Evaluación de fermentación
 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-lg-5.mb-4(data-aos="fade-left")
         .col-lg-7
           p.mb-4 Es la valoración del grado de fermentación de los granos, que influye directamente en el desarrollo del aroma y sabor característico del cacao.
           .bg12.p-4.mb-4
             p.mb-0 Se evalúa inicialmente de manera visual, a través del corte del grano (subtema 2.1). Sin embargo, la evaluación mediante análisis químicos (pH del cotiledón, índice de fermentación) es la ideal y se complementa con análisis sensorial (sabor amargo, astringencia, acidez).
           p.mb-lg-0.mb-4 Estos indicadores son el resultado de esa evaluación y se expresan en porcentaje de granos bien fermentados (ideal: > 65 – 70 %).
-        .col-lg-5
+        .col-lg-5.col-md-9.col-10
           img.mb-4.mb-lg-0(src='@/assets/curso/tema2/19.png')
 
 
-      .row.justify-content-center.align-items-stretch.mb-5
+      .row.justify-content-center.align-items-stretch.mb-5(data-aos="fade-right")
         .col-lg-4.col-md-6.mb-lg-0.mb-4
           .bg13.p-4.h-100
             .row.justify-content-center.align-items-center.mb-0
@@ -267,13 +267,13 @@
                 p.mb-0 #[b Fermentación excesiva:] olor a podrido, color negro o muy oscuro, textura blanda.
 
 
-      p.mb-5 Un buen proceso de fermentación es requisito para la producción de chocolate fino.
+      p.mb-5(data-aos="fade-left") Un buen proceso de fermentación es requisito para la producción de chocolate fino.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-10
           .row.justify-content-center.align-items-center.mb-0
-            .col-lg-3
+            .col-lg-3.col-md-5.col-9
               img.mb-lg-0.mb-4(src="@/assets/curso/tema2/23.png")
             .col-lg-5
               ul.lista-ul.mb-lg-0.mb-4
@@ -289,7 +289,7 @@
                 li.d-flex.mb-0
                   i.fas.fa-leaf
                   p.mb-0 Asegurar la inocuidad y trazabilidad del producto.
-            .col-lg-4
+            .col-lg-4.col-md-9.col-10
               img.mb-0(src="@/assets/curso/tema2/24.png")
          
 

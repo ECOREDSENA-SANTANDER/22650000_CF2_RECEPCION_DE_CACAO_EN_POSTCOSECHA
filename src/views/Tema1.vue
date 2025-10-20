@@ -23,10 +23,10 @@
         h2 1.1 Factores físicos
 
 
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-1
-          img(src='@/assets/curso/tema1/2.svg')
-        .col-lg-11
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+        .col-lg-1.col-md-2.col-6
+          img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema1/2.svg')
+        .col-lg-11.col-md-10
           p.mb-0 Los factores físicos de calidad en el cacao se refieren a las características visibles y tangibles del grano de cacao que afectan su valor y uso final. Estos factores son clave para determinar la calidad antes del procesamiento y para garantizar que el cacao cumpla con estándares comerciales y de producción.
 
 
@@ -76,11 +76,11 @@
           .col-lg-11.mb-0
             p.mb-4 La humedad es un factor físico y sanitario crítico en la evaluación del cacao, ya que influye de manera directa en su calidad, inocuidad y capacidad de conservación durante las etapas de almacenamiento, transporte y procesamiento. Un control adecuado de este parámetro es esencial para prevenir fermentaciones no deseadas, desarrollo de hongos y pérdida de valor comercial.
             .row.justify-content-center.align-items-stretch.mb-0
-              .col-lg-2
+              .col-lg-2.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Rango óptimo
                   p.mb-0.text-center 6.5 % - 7.5 %.
-              .col-lg-6
+              .col-lg-6.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Consecuencias de desviaciones
                   ul.lista-ul.mb-0
@@ -98,11 +98,11 @@
           .col-lg-11.mb-0
             p.mb-4 Se refiere al estado físico íntegro del grano, es decir, que permanezca entero, sin roturas, sin grietas, sin germinación ni signos de daño. Este aspecto constituye un indicador fundamental de la calidad física del cacao, ya que asegura su valor comercial y aptitud para el procesamiento.
             .row.justify-content-center.align-items-stretch.mb-0
-              .col-lg-4
+              .col-lg-4.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Condiciones óptimas
                   p.mb-0.text-center Granos enteros, sin daños mecánicos, germinados o partidos.
-              .col-lg-4
+              .col-lg-4.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Impacto
                   p.mb-0.text-center Los granos partidos o dañados tienen mayor absorción de humedad, aceleran el deterioro y afectan la calidad final.
@@ -110,15 +110,15 @@
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Evaluación
                   p.mb-0.text-center Porcentaje de granos defectuosos por muestra.
-        .row.justify-content-center.align-items.p-0(titulo="Impurezas")
+        .row.justify-content-center.align-items.p-0.mb-0(titulo="Impurezas")
           .col-lg-11.mb-0
             p.mb-4 Las impurezas son materiales extraños o contaminantes que se encuentran mezclados con los granos de cacao durante la cosecha, fermentación, secado, transporte o almacenamiento. Estas afectan negativamente la calidad física y sanitaria del cacao.
             .row.justify-content-center.align-items-stretch.mb-0
-              .col-lg-4
+              .col-lg-4.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Tipos
                   p.mb-0.text-center Cáscaras, piedras, tierra, hojas, restos vegetales, materiales extraños.
-              .col-lg-4
+              .col-lg-4.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Límites máximos
                   p.mb-0.text-center Generalmente <1 - 2 % para garantizar calidad y evitar daños en equipos de procesamiento.
@@ -133,13 +133,13 @@
         h2 1.2 Factores organolépticos 
 
 
-      p.mb-5 Son las propiedades del cacao que pueden ser percibidas por los sentidos humanos: vista, olfato, gusto, tacto y, en menor medida, oído. Estos factores determinan la experiencia sensorial y la calidad percibida del cacao y sus derivados (como el chocolate).
+      p.mb-5(data-aos="fade-right") Son las propiedades del cacao que pueden ser percibidas por los sentidos humanos: vista, olfato, gusto, tacto y, en menor medida, oído. Estos factores determinan la experiencia sensorial y la calidad percibida del cacao y sus derivados (como el chocolate).
 
       
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-12 
           .tarjetaf.p-4.mb-0
-            SlyderA(tipo="b")(data-aos="zoom-in-left")
+            SlyderA(tipo="b")(data-aos="fade-left")
               .row.justify-content-center.align-items.p-0.p-lg-4
                 .col-lg-6
                   h4.mb-4 Aroma
@@ -192,22 +192,22 @@
         h2 1.3 Factores sanitarios 
 
 
-      .row.justify-content-center.align-items-center.mb-4
-        .col-lg-1
-          img(src='@/assets/curso/tema1/7.svg')
-        .col-lg-11
+      .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+        .col-lg-1.col-md-2.col-6
+          img.mb-lg-0.mb-md-0.mb-4(src='@/assets/curso/tema1/7.svg')
+        .col-lg-11.col-md-10
           p.mb-0 Comprenden todos los aspectos vinculados con la seguridad, higiene y sanidad del cacao, garantizando que el producto se mantenga libre de contaminantes, patógenos y sustancias nocivas para la salud humana. Estos parámetros son esenciales para asegurar la inocuidad y cumplir con las normas nacionales e internacionales de calidad alimentaria.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
         .col-lg-12    
           TabsA.color-primario
-            .tarjeta.bg4.p-4(titulo="Presencia de mohos y hongos")
-              .row.justify-content-center
+            .tarjeta.bg4.p-lg-5.p-4(titulo="Presencia de mohos y hongos")
+              .row.justify-content-center.align-items-center.mb-0
                 .col-lg-12
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-8
-                      h4.mb-4 Presencia de mohos y hongos
+                  h4.mb-4 Presencia de mohos y hongos
+                  .row.justify-content-center.align-items-center.mb-lg-0.mb-2
+                    .col-lg-8.mb-lg-0.mb-4
                       p.mb-4 Los hongos son uno de los principales problemas sanitarios en el cacao, ya que pueden afectar tanto la calidad como la seguridad del producto. Su aparición está relacionada principalmente con condiciones inadecuadas de fermentación, secado y almacenamiento.
                       ul.lista-ul.mb-0
                         li.d-flex.mb-3
@@ -216,17 +216,17 @@
                         li.d-flex.mb-3
                           i.fas.fa-leaf
                           p.mb-0 #[b Riesgos.] Formación de micotoxinas que afectan la salud humana y la inocuidad del producto. 
-                        li.d-flex.mb-4
+                        li.d-flex.mb-0
                           i.fas.fa-leaf
                           p.mb-0 #[b Detección.] Inspección visual, análisis microbiológicos y toxicológicos.
                     .col-lg-4.col-md-9
                       img(src='@/assets/curso/tema1/8.png', alt='')
-            .tarjeta.bg4.p-4(titulo="Daños por plagas e insectos")
-              .row.justify-content-center
+            .tarjeta.bg4.p-lg-5.p-4(titulo="Daños por plagas e insectos")
+              .row.justify-content-center.align-items-center.mb-0
                 .col-lg-12
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-8
-                      h4.mb-4 Daños por plagas e insectos
+                  h4.mb-4 Daños por plagas e insectos
+                  .row.justify-content-center.align-items-center.mb-lg-0.mb-2
+                    .col-lg-8.mb-lg-0.mb-4
                       p.mb-4 Las plagas e insectos representan uno de los principales problemas que afectan la calidad y cantidad de la producción de cacao. Pueden causar daños directos en las plantas y en los granos, afectando su valor comercial y sanitario.
                       ul.lista-ul.mb-0
                         li.d-flex.mb-3
@@ -240,12 +240,12 @@
                           p.mb-0 #[b Control.] Buenas prácticas agrícolas, almacenamiento controlado y fumigación.
                     .col-lg-4.col-md-9
                       img(src='@/assets/curso/tema1/9.png', alt='')
-            .tarjeta.bg4.p-4(titulo="Contaminación química")
-              .row.justify-content-center
+            .tarjeta.bg4.p-lg-5.p-4(titulo="Contaminación química")
+              .row.justify-content-center.align-items-center.mb-0
                 .col-lg-12
-                  .row.justify-content-center.align-items-center.mb-0
-                    .col-lg-8
-                      h4.mb-4 Contaminación química
+                  h4.mb-4 Contaminación química
+                  .row.justify-content-center.align-items-center.mb-lg-0.mb-2
+                    .col-lg-8.mb-lg-0.mb-4
                       p.mb-4 Hace referencia a la presencia de sustancias no deseadas o tóxicas en el cacao, capaces de afectar la salud humana, comprometer su calidad y poner en riesgo su aceptación comercial. Este tipo de contaminación puede originarse en el cultivo, el procesamiento o el almacenamiento, e incluye residuos de plaguicidas, metales pesados u otros compuestos que superen los límites permitidos por las normas de inocuidad alimentaria.
                       ul.lista-ul.mb-0
                         li.d-flex.mb-3
@@ -263,12 +263,12 @@
         h2 1.4 Criterios de aceptación
 
 
-      p.mb-5 Para que un lote de cacao sea aceptado para su procesamiento o comercialización, debe cumplir con una serie de parámetros de calidad que aseguren su valor y aptitud industrial:
+      p.mb-5(data-aos="fade-right") Para que un lote de cacao sea aceptado para su procesamiento o comercialización, debe cumplir con una serie de parámetros de calidad que aseguren su valor y aptitud industrial:
 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-7
-          .bg5.p-4.mb-lg-0.mb-4
+          .bg5.p-4.mb-lg-0.mb-5
             ul.lista-ul.mb-0
               li.d-flex.mb-3
                 i.fas.fa-leaf
@@ -352,7 +352,7 @@
         h2 1.5 Normas nacionales e internacionales
 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-0.mb-lg-5
         .col-lg-10
           .tarjeta--container.row.mb-4
             .col-md.tarjeta.color-primario.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-right")
@@ -363,7 +363,7 @@
                   p.mb-4 Cada país productor establece normas técnicas que definen los parámetros físicos, químicos y sanitarios necesarios para la aceptación y clasificación del cacao. En Colombia, por ejemplo, se aplican los estándares establecidos por ICONTEC (NTC).
                   img.mb-0(src='@/assets/curso/tema1/13.svg', alt='Imagen decorativa.')
             
-            .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-lg-0.mb-0(data-aos="fade-left")
+            .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-left")
               .row.justify-content-center.mb-0
                 .col-12
                   img.img-a.img-t.mb-5(src='@/assets/curso/tema1/14.svg', alt='Imagen decorativa.')

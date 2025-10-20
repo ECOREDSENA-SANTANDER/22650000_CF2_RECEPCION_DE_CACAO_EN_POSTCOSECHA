@@ -20,10 +20,10 @@
         h2 3.1 Relación con el proceso de recepción
 
 
-      p.mb-5 El proceso de recepción es el primer contacto formal del cacao con la planta o empresa que lo procesará o comercializará. En esta etapa, la calidad del grano determina:
+      p.mb-5(data-aos="fade-right") El proceso de recepción es el primer contacto formal del cacao con la planta o empresa que lo procesará o comercializará. En esta etapa, la calidad del grano determina:
 
       
-      .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4
+      .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-left")
         .col-lg-4.col-md-6.col-10.mb-lg-0.mb-4
           .h-100.bg14.p-3
             .row.justify-content-center.align-items-center.mb-0
@@ -50,7 +50,7 @@
             p.mb-2.text-center(data-aos="fade-right") Se establece un registro del lote, su origen y condiciones, que ayuda a mantener la calidad en toda la cadena.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .bg10.p-4
             p.mb-0 #[b Por ejemplo:] una planta de procesamiento recibe un lote con alto contenido de humedad (>8 %). Para evitar el desarrollo de hongos, debe someterlo a un secado adicional o rechazar el lote, lo que implica costos y posibles pérdidas para el proveedor, ya que si se lo reciben es a un costo más bajo.
@@ -61,10 +61,10 @@
         h2 3.2 Impacto en la cadena de valor 
 
 
-      p.mb-5 La calidad del cacao influye directamente en la cadena de valor, desde el productor hasta el consumidor final.
+      p.mb-5(data-aos="fade-right") La calidad del cacao influye directamente en la cadena de valor, desde el productor hasta el consumidor final.
 
 
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-lg-4.mb-5(data-aos="fade-left")
         .col-lg-3.col-md-5.col-7.mb-4
           img(src='@/assets/curso/tema3/8.png', alt='')
         .col-lg-9
@@ -99,7 +99,7 @@
               p.mb-2.text-center(data-aos="fade-right") Obtienen chocolates y derivados con mejor sabor, aroma y textura, lo que aumenta la satisfacción y fidelidad.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .bg10.p-4
             p.mb-0 #[b Por ejemplo:] una cooperativa de pequeños productores que invierte en mejorar la fermentación y secado, logra vender su cacao como “cacao fino de aroma”, obteniendo un precio 30 % superior al cacao corriente en el mercado internacional.
@@ -110,45 +110,45 @@
         h2 3.3 Clasificación comercial del grano
 
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-6
-          img.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/tema3/13.png' alt='AvatarTop')
+          img.mb-5(data-aos="zoom-in-left")(src='@/assets/curso/tema3/13.png' alt='AvatarTop')
         .col-lg-6
           p.mb-0 La clasificación comercial del cacao es un sistema estandarizado que categoriza los granos según sus características de calidad, determinando así su valor en el mercado y su destino para diferentes usos industriales o artesanales.
 
 
-      .row.justify-content-center.align-items-stretch.mb-5
+      .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-left")
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-4.h-100.mb-0
             .tarjeta-numerada__numero
               .h2 1
-            p.text-center 
+            p.text-center.mx-3 
               b Cacao fino o de aroma
-            p.mb-0 Granos con fermentación óptima, perfil sensorial superior y bajo porcentaje de defectos. Usado para chocolates premium.
+            p.mb-0.mx-3  Granos con fermentación óptima, perfil sensorial superior y bajo porcentaje de defectos. Usado para chocolates premium.
   
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-secundario.p-4.h-100.mb-0
             .tarjeta-numerada__numero
               .h2 2
-            p.text-center 
+            p.text-center.mx-3  
               b Cacao corriente o a granel
-            p.mb-0 Granos con características estándar, mayor presencia de defectos, usado para chocolates industriales o productos derivados.
+            p.mb-0.mx-3 Granos con características estándar, mayor presencia de defectos, usado para chocolates industriales o productos derivados.
   
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-contenido.p-4.h-100.mb-0
             .tarjeta-numerada__numero
               .h2 3
-            p.text-center 
+            p.text-center.mx-3  
               b Cacao criollo, forastero y trinitario
-            p.mb-0 Clasificación botánica que también influye en la calidad y uso.
+            p.mb-0.mx-3  Clasificación botánica que también influye en la calidad y uso.
   
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-botones.hh.p-4.h-100.mb-0
             .tarjeta-numerada__numero
               .h2 4
-            p.text-center 
+            p.text-center.mx-3  
               b Nacional / arriba
-            p.mb-0 Granos para productos internacionales y mezclas.
+            p.mb-0.mx-3  Granos para productos internacionales y mezclas.
   
 
       .row.fondo1.p-4.p-lg-4.p-md-4.mb-4(data-aos="fade-down")
@@ -190,7 +190,7 @@
                       td.left Zonas con influencia ecuatoriana y venezolana en Colombia.
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .bg10.p-4
             p.mb-0 #[b Por ejemplo:] el cacao #[b forastero] es el más cultivado y se emplea principalmente en chocolates de producción masiva, mientras que el cacao #[b criollo], más escaso y de sabores delicados, se destina a chocolates #[em gourmet] de alta calidad.
@@ -201,14 +201,14 @@
         h2 3.4 Uso en agroindustria
      
 
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+        .col-lg-5.col-md-9.col-10
           img.mb-lg-0.mb-4(src="@/assets/curso/tema3/14.png")
         .col-lg-7
-          .row.justify-content-center.align-items-center.mb-4
+          .row.justify-content-center.align-items-center.mb-lg-4.mb-5
             .col-lg-7
               p.mb-4 La agroindustria del cacao transforma el grano en productos de alto valor agregado, tales como:
-              ul.lista-ul.mb-lg-0.mb-4
+              ul.lista-ul.mb-lg-0.mb-5
                 li.d-flex.mb-1
                   i.fas.fa-leaf
                   p.mb-0 Chocolates en barra, cobertura y bombonería.
@@ -221,12 +221,12 @@
                 li.d-flex.mb-0
                   i.fas.fa-leaf
                   p.mb-0 Productos cosméticos y farmacéuticos.
-            .col-lg-5
+            .col-lg-5.col-md-9.col-10
               img.mb-0(src="@/assets/curso/tema3/15.svg")
           p.mb-0 La calidad del grano influye directamente en el rendimiento, la calidad, la innovación y la diversificación de los productos:
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
         .col-lg-12
           .tarjeta--container.row.mb-5
             .col-lg-4.col-md-6.tarjeta.color-primario.tar1.p-lg-5.p-4.mb-lg-0.mb-4.mb-md-4
@@ -252,7 +252,7 @@
               p.mb-0.text-center Cacao de excelente calidad permite desarrollar productos diferenciados y posicionarse en mercados especializados o #[em gourmet.]
 
 
-      .row.justify-content-center.align-items-center.mb-0
+      .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .bg10.p-4
             p.mb-0 #[b Por ejemplo:] una empresa chocolatera que utiliza cacao bien fermentado y con baja humedad puede producir chocolates con mejor aroma, menor amargor y textura refinada, lo que facilita su ingreso al mercado #[em gourmet] y mejora sus márgenes de ganancia gracias a su mayor valor comercial.
