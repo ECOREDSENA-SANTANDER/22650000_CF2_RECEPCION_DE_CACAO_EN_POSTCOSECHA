@@ -270,6 +270,14 @@
       p.mb-5(data-aos="fade-left") Un buen proceso de fermentación es requisito para la producción de chocolate fino.
 
 
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+        .col-auto.ps-lg-3.pe-lg-0.ps-0.pe-0
+          .subti
+        .col.ps-lg-0
+          .ssu.p-lg-2.p-3.pe-lg-4.ps-lg-4.pe-md-4.ps-md-4.pe-4.ps-4
+            h4.mb-0 Las técnicas  de análisis y evaluación de calidad permiten
+ 
+
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-10
           .row.justify-content-center.align-items-center.mb-0
