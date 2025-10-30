@@ -215,7 +215,7 @@ export default {
     },
     {
       termino: 'Análisis sensorial',
-      significado: 'Evaluación del sabor, aroma y textura del cacao.',
+      significado: 'Análisis del aroma, sabor, textura y apariencia del grano.',
     },
     {
       termino: 'Cadena de valor',
@@ -237,7 +237,7 @@ export default {
     },
     {
       termino: 'Evaluación sensorial',
-      significado: 'Análisis del aroma, sabor, textura y apariencia del grano.',
+      significado: 'Evaluación del sabor, aroma y textura del cacao.',
     },
     {
       termino: 'Grano partido',
@@ -314,15 +314,9 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2021). Cifras sectoriales de la cadena de cacao en Colombia.',
+        'Ministerio de Agricultura y Desarrollo Rural. (2021). Cadena de cacao.',
       link:
         'https://sioc.minagricultura.gov.co/Cacao/Documentos/2021-03-31%20Cifras%20Sectoriales.pdf',
-    },
-    {
-      referencia:
-        'Nogales, J. (2017, 23 de agosto). Normas para la clasificación por calidad del cacao. Poscosecha Cacao.',
-      link:
-        'https://poscosechacacao.com/2017/08/normas-para-la-clasificacion-por-calidad del cacao',
     },
     {
       referencia:
@@ -331,7 +325,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje SENA. (2019). Características sensoriales de granos y licor de cacao por un panel de jueces en entrenamiento.',
+        'Servicio Nacional de Aprendizaje (SENA). (2019). Características sensoriales de granos y licor de cacao por un panel de jueces en entrenamiento.',
       link:
         'https://revistas.sena.edu.co/index.php/sennova/article/view/3232/4026',
     },
@@ -357,7 +351,7 @@ export default {
       autores: [
         {
           nombre: 'Andrés Javier Pacheco Wandurraga',
-          cargo: 'Experto Temático',
+          cargo: 'Experto temático',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

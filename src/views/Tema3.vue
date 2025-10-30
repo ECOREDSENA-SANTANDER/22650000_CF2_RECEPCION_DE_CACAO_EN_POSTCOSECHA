@@ -16,7 +16,7 @@
 
   
       separador
-      #t_1_1.titulo-segundo.mb-5
+      #t_3_1.titulo-segundo.mb-5
         h2 3.1 Relación con el proceso de recepción
 
 
@@ -53,11 +53,11 @@
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
         .col-lg-8
           .bg10.p-4
-            p.mb-0 #[b Por ejemplo:] una planta de procesamiento recibe un lote con alto contenido de humedad (>8 %). Para evitar el desarrollo de hongos, debe someterlo a un secado adicional o rechazar el lote, lo que implica costos y posibles pérdidas para el proveedor, ya que si se lo reciben es a un costo más bajo.
+            p.mb-0 #[b Por ejemplo:] una planta de procesamiento recibe un lote con alto contenido de humedad (> 8 %). Para evitar el desarrollo de hongos, debe someterlo a un secado adicional o rechazar el lote, lo que implica costos y posibles pérdidas para el proveedor, ya que si se lo reciben es a un costo más bajo.
       
       
       separador
-      #t_1_2.titulo-segundo.mb-5
+      #t_3_2.titulo-segundo.mb-5
         h2 3.2 Impacto en la cadena de valor 
 
 
@@ -106,7 +106,7 @@
 
 
       separador
-      #t_1_3.titulo-segundo.mb-5
+      #t_3_3.titulo-segundo.mb-5
         h2 3.3 Clasificación comercial del grano
 
 
@@ -124,7 +124,7 @@
               .h2 1
             p.text-center.mx-3 
               b Cacao fino o de aroma
-            p.mb-0.mx-3  Granos con fermentación óptima, perfil sensorial superior y bajo porcentaje de defectos. Usado para chocolates premium.
+            p.mb-0.mx-3  Granos con fermentación óptima, perfil sensorial superior y bajo porcentaje de defectos. Usado para chocolates #[em premium].
   
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-secundario.p-4.h-100.mb-0
@@ -180,11 +180,11 @@
                       td.left Antioquia, Cauca, Valle del Cauca, Magdalena.
                     tr
                       td.left #[b Trinitario]
-                      td.left Trinitario Híbrido entre forastero y criollo, mezcla de resistencia y buen perfil sensorial.
+                      td.left Híbrido entre forastero y criollo, mezcla de resistencia y buen perfil sensorial.
                       td.left Chocolates de buena calidad y mezcla para chocolates con aroma complejo.
                       td.left Zonas de clima intermedio en varios departamentos.
                     tr
-                      td.left #[b Nacional / Arriba]
+                      td.left #[b Nacional / arriba]
                       td.left Variedad fina y aromática, granos medianos a grandes con sabor floral.
                       td.left Chocolates #[em gourmet] y de aroma para mercados internacionales.
                       td.left Zonas con influencia ecuatoriana y venezolana en Colombia.
@@ -197,7 +197,7 @@
 
 
       separador
-      #t_1_4.titulo-segundo.mb-5
+      #t_3_4.titulo-segundo.mb-5
         h2 3.4 Uso en agroindustria
      
 

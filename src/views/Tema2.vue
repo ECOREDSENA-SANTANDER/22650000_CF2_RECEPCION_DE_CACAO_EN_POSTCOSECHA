@@ -34,10 +34,10 @@
           .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
             .col-lg-8
               .titulo-sexto.mb-4
-                h5 Figura 1. 
-                | Factores físicos
+                h5 Figura 2. 
+                | Visual grano cortado
               .bg2.mb-2.p-4
-                img(src='@/assets/curso/tema2/3.png', alt='Muestra diferentes tipos de granos de cacao, organizados en ocho grupos para ilustrar características con defectos y daños. De izquierda a derecha y de arriba hacia abajo aparecen: buenos (granos sanos, completos y bien formados), pequeños (granos de menor tamaño al estándar), quebrados (granos partidos o rotos), gemelos (dos granos adheridos), planos (granos delgados y sin contenido adecuado), germinados (granos que han iniciado el proceso de germinación), pasa (granos arrugados, secos y deteriorados) y basura (fragmentos, impurezas y material no apto para el uso).')
+                img(src='@/assets/curso/tema2/3.png', alt='Muestra cuatro granos de cacao abiertos que ilustran su estado de fermentación: el primero poco fermentado con manchas violetas, el segundo bien fermentado con color marrón uniforme, el tercero no fermentado con tono grisáceo, y el cuarto grano con presencia de moho visible.')
               figcaption.mb-5.enl #[b Tomada de] https://1.bp.blogspot.com/-3jBCyZ1Zyc8/YBhkVsTe-sI/AAAAAAAABE4/yog5mYycCNgaX6t7DNWdfPttygwmYs7rwCLcBGAsYHQ/s908/granos_cacao.jpg
 
       
@@ -48,7 +48,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0.mx-lg-4
-                h4.mb-2 Video. Prueba de corte de nuestro grano de cacao. Video 03
+                h4.mb-2 Prueba de corte de nuestro grano de cacao. Video 03
                 p.mb-0 Se invita a profundizar en sus conocimientos sobre la prueba de corte de granos de cacao.
               .col-sm-auto.pe-lg-5
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=j4FcVcAug6A" target="_blank")
@@ -90,7 +90,7 @@
             ul.lista-ul.mb-2
               li.d-flex.mb-0
                 i.fas.fa-leaf
-                p.mb-0 Color del cotiledón:
+                p.mb-0 #[b Color del cotiledón:]
               .row.justify-content-center.align-items-center.mb-0
                 .col-lg-11.col-md-11.col-10
                   p.mb-0.mx-1.mx-lg-2 • Marrón: indica un grano bien fermentado.
@@ -99,10 +99,10 @@
             ul.lista-ul.mb-0
               li.d-flex.mb-2
                 i.fas.fa-leaf
-                p.mb-0 Textura y compactación: permiten evaluar el grado de fermentación y secado.
+                p.mb-0 #[b Textura y compactación:] permiten evaluar el grado de fermentación y secado.
               li.d-flex.mb-0
                 i.fas.fa-leaf
-                p.mb-0 Defectos visibles: presencia de mohos, insectos, granos germinados, partidos o dañados por calor.
+                p.mb-0 #[b Defectos visibles:] presencia de mohos, insectos, granos germinados, partidos o dañados por calor.
         .col-lg-3.col-md-6.col-10
           img.mb-lg-0.mb-4(src='@/assets/curso/tema2/7.png', alt='')
         .col-lg-4
@@ -185,7 +185,7 @@
               strong.ro perfil sensorial del lote,
               |  que permite clasificar el cacao como 
               strong.ro fino, de aroma o corriente,
-              |  información clave para la elaboración de chocolates premium y para la exportación.
+              |  información clave para la elaboración de chocolates #[em premium] y para la exportación.
 
 
       separador
@@ -237,7 +237,7 @@
         .col-lg-7
           p.mb-4 Es la valoración del grado de fermentación de los granos, que influye directamente en el desarrollo del aroma y sabor característico del cacao.
           .bg12.p-4.mb-4
-            p.mb-0 Se evalúa inicialmente de manera visual, a través del corte del grano (subtema 2.1). Sin embargo, la evaluación mediante análisis químicos (pH del cotiledón, índice de fermentación) es la ideal y se complementa con análisis sensorial (sabor amargo, astringencia, acidez).
+            p.mb-0 Se evalúa inicialmente de manera visual, a través del corte del grano (numeral 2.1). Sin embargo, la evaluación mediante análisis químicos (pH del cotiledón, índice de fermentación) es la ideal y se complementa con análisis sensorial (sabor amargo, astringencia, acidez).
           p.mb-lg-0.mb-4 Estos indicadores son el resultado de esa evaluación y se expresan en porcentaje de granos bien fermentados (ideal: > 65 – 70 %).
         .col-lg-5.col-md-9.col-10
           img.mb-4.mb-lg-0(src='@/assets/curso/tema2/19.png')

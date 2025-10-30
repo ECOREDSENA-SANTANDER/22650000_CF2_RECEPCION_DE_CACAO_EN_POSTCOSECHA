@@ -200,7 +200,7 @@ figcaption
     border-color: #F0E6E6
 .cf5
   table
-    table-layout: auto
+    table-layout: fixed
     width: 100% 
     th:nth-child(1) 
       width: 50%
@@ -208,15 +208,16 @@ figcaption
       width: 29%
     th:nth-child(3) 
       width: 21%
-.cf5  
-  table * 
-    line-height: 0.5
 .left
   text-align: left
 .bg6
   background-color: white
 .vt
   vertical-align: top
+.scroll-suave
+  scroll-behavior: smooth
+  will-change: transform
+  transform: translateZ(0)
 
   
 .tarjeta.color-primario 

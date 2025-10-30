@@ -101,7 +101,7 @@ export default {
         {
           id: 4,
           texto:
-            'Los factores no influyen directamente en el rendimiento, sabor, aroma, y valor comercial del cacao, además no determinan su aptitud para distintos procesos industriales.',
+            'Los factores de calidad no influyen directamente en el rendimiento, sabor, aroma, y valor comercial del cacao, además no determinan su aptitud para distintos procesos industriales.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: false,
           opciones: [
@@ -147,7 +147,7 @@ export default {
         {
           id: 6,
           texto:
-            'EL perfil organoléptico ideal se caracteriza por aromas frutales, florales, a nuez, cacao fino, sin olores a moho, humedad o químicos.',
+            'El perfil organoléptico ideal se caracteriza por aromas frutales, florales, a nuez, cacao fino, sin olores a moho, humedad o químicos.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: false,
           opciones: [

@@ -40,7 +40,7 @@
                 | Factores físicos
               .bg2.mb-2.p-4
                 img(src='@/assets/curso/tema1/3.png', alt='Muestra diferentes tipos de granos de cacao, organizados en ocho grupos para ilustrar características con defectos y daños. De izquierda a derecha y de arriba hacia abajo aparecen: buenos (granos sanos, completos y bien formados), pequeños (granos de menor tamaño al estándar), quebrados (granos partidos o rotos), gemelos (dos granos adheridos), planos (granos delgados y sin contenido adecuado), germinados (granos que han iniciado el proceso de germinación), pasa (granos arrugados, secos y deteriorados) y basura (fragmentos, impurezas y material no apto para el uso).')
-              figcaption.mb-5.enl #[b Tomada de] https://static.wixstatic.com/media/9af989_8969b24b5ad1458e80ea0f784bbc6b8f~mv2.png/v1/fill/w_679,h_335,al_c,q_85,enc_auto/9af989_8969b24b5ad1458e80ea0f784bbc6b8f~mv2.png
+              figcaption.mb-5.enl Fuente: Tomada de https://static.wixstatic.com/media/9af989_8969b24b5ad1458e80ea0f784bbc6b8f~mv2.png/v1/fill/w_679,h_335,al_c,q_85,enc_auto/9af989_8969b24b5ad1458e80ea0f784bbc6b8f~mv2.png
 
 
       AcordionA.activo(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-0(data-aos="fade-left")
@@ -59,7 +59,7 @@
               .col-lg-4 
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Ejemplos
-                  p.mb-0.text-center Las variedades forastero suelen presentar granos más pequeños y robustos, mientras que el Criollo destaca por granos más grandes y alargados, características que influyen en su comportamiento industrial y valor comercial.
+                  p.mb-0.text-center Las variedades #[b forastero] suelen presentar granos más pequeños y robustos, mientras que el criollo destaca por granos más grandes y alargados, características que influyen en su comportamiento industrial y valor comercial.
         .row.justify-content-center.align-items.p-0(titulo="Color")
           .col-lg-11.mb-0
             p.mb-4 El color del grano de cacao es un indicador clave tanto de la calidad física como del proceso de fermentación. Su evaluación considera tanto la almendra interna como la cáscara externa, ya que ambos aportan información sobre el manejo postcosecha.
@@ -71,7 +71,7 @@
               .col-lg-6
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Evaluación
-                  p.mb-0.text-center La valoración se realiza de forma visual, utilizando una escala cromática estandarizada (por ejemplo, la escala de cortes de la ICCO) y mediante la comparación con muestras control que sirven como referencia de calidad.
+                  p.mb-0.text-center La valoración se realiza de manera visual, utilizando una escala cromática estandarizada como la propuesta por The International Cocoa Organization (ICCO) y comparando el producto con muestras de control que sirven como referencia de calidad.
         .row.justify-content-center.align-items.p-0(titulo="Humedad")
           .col-lg-11.mb-0
             p.mb-4 La humedad es un factor físico y sanitario crítico en la evaluación del cacao, ya que influye de manera directa en su calidad, inocuidad y capacidad de conservación durante las etapas de almacenamiento, transporte y procesamiento. Un control adecuado de este parámetro es esencial para prevenir fermentaciones no deseadas, desarrollo de hongos y pérdida de valor comercial.
@@ -86,10 +86,10 @@
                   ul.lista-ul.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-leaf
-                      p.mb-0 Humedad alta (>7.5 %): riesgo de crecimiento de hongos y mohos, fermentación indeseada, daños en almacenamiento.
+                      p.mb-0 Humedad alta (> 7.5 %): riesgo de crecimiento de hongos y mohos, fermentación indeseada, daños en almacenamiento.
                     li.d-flex.mb-0
                       i.fas.fa-leaf
-                      p.mb-0 Humedad baja (<6 %): grano muy seco, puede volverse quebradizo y afectar calidad del procesamiento.
+                      p.mb-0 Humedad baja (< 6 %): grano muy seco, puede volverse quebradizo y afectar calidad del procesamiento.
               .col-lg-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Métodos de medición
@@ -121,7 +121,7 @@
               .col-lg-4.mb-lg-0.mb-4
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Límites máximos
-                  p.mb-0.text-center Generalmente <1 - 2 % para garantizar calidad y evitar daños en equipos de procesamiento.
+                  p.mb-0.text-center Generalmente < 1 - 2 % para garantizar calidad y evitar daños en equipos de procesamiento.
               .col-lg-4 
                 .bg3.p-3.h-100
                   h5.mb-4.text-center Control
@@ -166,7 +166,7 @@
                       p.mb-0 #[b Componentes.] Amargor equilibrado, acidez leve, notas dulces, ausencia de sabores desagradables (rancio, moho).
                     li.d-flex.mb-3
                       i.fas.fa-leaf
-                      p.mb-0 #[b Importancia.] Determina aceptación comercial y tipo de producto final (chocolates finos vs industriales).
+                      p.mb-0 #[b Importancia.] Determina aceptación comercial y tipo de producto final (chocolates finos vs. industriales).
                     li.d-flex.mb-4
                       i.fas.fa-leaf
                       p.mb-0 #[b Evaluación.] Pruebas de degustación y análisis químico (ácidos orgánicos, taninos).
@@ -182,7 +182,7 @@
                       p.mb-0 #[b Descripción.] Sensación en boca al masticar el grano o chocolate, debe ser suave, sin asperezas o textura arenosa.
                     li.d-flex.mb-4
                       i.fas.fa-leaf
-                      p.mb-0 #[b Impacto.] Afecta la calidad del producto final, especialmente en chocolates premium.
+                      p.mb-0 #[b Impacto.] Afecta la calidad del producto final, especialmente en chocolates #[em premium].
                 .col-lg-5.col-md-9
                   img.mb-0(alt="" src="@/assets/curso/tema1/6.png")
 
@@ -306,7 +306,7 @@
                   thead
                     tr
                       th Característica
-                      th Premium / especial
+                      th #[em Premium] / especial
                       th Estándar
                   tbody
                     tr
@@ -326,15 +326,15 @@
                       td 0 %
                       td 0.3 %
                     tr
-                      td.left Moho interno (max / 100 granos)
+                      td.left Moho interno (máx. / 100 granos)
                       td 1 grano
                       td 3 granos
                     tr
-                      td.left Insectos/germinación (max / 100 granos)
+                      td.left Insectos / germinación (máx. / 100 granos)
                       td 1 grano
                       td 2 granos
                     tr
-                      td.left Granos partidos (max / 100 granos)
+                      td.left Granos partidos (máx. / 100 granos)
                       td 1 grano
                       td 2 granos
                     tr
@@ -357,19 +357,19 @@
           .tarjeta--container.row.mb-4
             .col-md.tarjeta.color-primario.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-right")
               .row.justify-content-center.mb-0
-                .col-12
+                .col-12.ps-lg-2
                   img.img-a.img-t.mb-5(src='@/assets/curso/tema1/12.svg', alt='Imagen decorativa.')
                   h3.mb-4.text-center Normas nacionales
-                  p.mb-4 Cada país productor establece normas técnicas que definen los parámetros físicos, químicos y sanitarios necesarios para la aceptación y clasificación del cacao. En Colombia, por ejemplo, se aplican los estándares establecidos por ICONTEC (NTC).
+                  p.mb-4 Cada país productor establece normas técnicas que definen los parámetros físicos, químicos y sanitarios necesarios para la aceptación y clasificación del cacao. En Colombia, por ejemplo, se aplican los estándares establecidos por ICONTEC (Normas Técnicas Colombianas - NTC).
                   img.mb-0(src='@/assets/curso/tema1/13.svg', alt='Imagen decorativa.')
             
             .col-md.tarjeta.color-acento-contenido.p-4.p-md-4.p-lg-5.mb-lg-0.mb-4(data-aos="fade-left")
               .row.justify-content-center.mb-0
-                .col-12
+                .col-12.mb-lg-0.mb-md-4.mb-0
                   img.img-a.img-t.mb-5(src='@/assets/curso/tema1/14.svg', alt='Imagen decorativa.')
                   h3.mb-4.text-center Normas internacionales
                   p.mb-4.mb-lg-5.mb-md-5 Estas regulaciones garantizan que el cacao cumpla con los requisitos de calidad e inocuidad, asegurando su aprobación para la industria alimentaria y el comercio internacional.
-                  img.mb-0(src='@/assets/curso/tema1/15.svg', alt='Imagen decorativa.')
+                img.mb-0(src='@/assets/curso/tema1/15.svg', alt='Imagen decorativa.')
             
 
       .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -419,8 +419,8 @@
                             p.mb-0 Se orienta a asegurar aceptación en mercados nacionales e internacionales.
                   td.left.vt Se utiliza como guía para preparar muestras de cacao para análisis de calidad y catas, optimizando procesos de evaluación sensorial y garantizando uniformidad técnica.
                 tr
-                  td.left Codex alimentarius
-                  td.left.vt Conjunto de normas, directrices y códigos de práctica internacionales para alimentos, desarrollado por FAO y OMS. Busca proteger la salud de los consumidores y asegurar prácticas justas en el comercio de alimentos.
+                  td.left #[em Codex alimentarius]
+                  td.left.vt Conjunto de normas, directrices y códigos de práctica internacionales para alimentos, desarrollado por FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura) y la OMS (Organización Mundial de la Salud). Busca proteger la salud de los consumidores y asegurar prácticas justas en el comercio de alimentos.
                   td.left.vt 
                     .row.justify-content.mb-0
                       .col-lg-12
