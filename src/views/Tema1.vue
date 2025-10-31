@@ -40,7 +40,7 @@
                 | Factores físicos
               .bg2.mb-2.p-4
                 img(src='@/assets/curso/tema1/3.png', alt='Muestra diferentes tipos de granos de cacao, organizados en ocho grupos para ilustrar características con defectos y daños. De izquierda a derecha y de arriba hacia abajo aparecen: buenos (granos sanos, completos y bien formados), pequeños (granos de menor tamaño al estándar), quebrados (granos partidos o rotos), gemelos (dos granos adheridos), planos (granos delgados y sin contenido adecuado), germinados (granos que han iniciado el proceso de germinación), pasa (granos arrugados, secos y deteriorados) y basura (fragmentos, impurezas y material no apto para el uso).')
-              figcaption.mb-5.enl Fuente: Tomada de https://static.wixstatic.com/media/9af989_8969b24b5ad1458e80ea0f784bbc6b8f~mv2.png/v1/fill/w_679,h_335,al_c,q_85,enc_auto/9af989_8969b24b5ad1458e80ea0f784bbc6b8f~mv2.png
+              figcaption.mb-5.enl Fuente: Hanspach Del Rio, (2022)
 
 
       AcordionA.activo(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mb-0(data-aos="fade-left")

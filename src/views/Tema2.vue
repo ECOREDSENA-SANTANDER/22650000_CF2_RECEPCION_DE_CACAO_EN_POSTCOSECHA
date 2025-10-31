@@ -38,7 +38,7 @@
                 | Visual grano cortado
               .bg2.mb-2.p-4
                 img(src='@/assets/curso/tema2/3.png', alt='Muestra cuatro granos de cacao abiertos que ilustran su estado de fermentación: el primero poco fermentado con manchas violetas, el segundo bien fermentado con color marrón uniforme, el tercero no fermentado con tono grisáceo, y el cuarto grano con presencia de moho visible.')
-              figcaption.mb-5.enl #[b Tomada de] https://1.bp.blogspot.com/-3jBCyZ1Zyc8/YBhkVsTe-sI/AAAAAAAABE4/yog5mYycCNgaX6t7DNWdfPttygwmYs7rwCLcBGAsYHQ/s908/granos_cacao.jpg
+              figcaption.mb-5.enl Nota: Autor desconocido, s.f., fuente desconocida. 
 
       
       .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-right")

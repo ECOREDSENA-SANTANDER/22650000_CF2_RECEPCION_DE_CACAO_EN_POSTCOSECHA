@@ -314,6 +314,11 @@ export default {
     },
     {
       referencia:
+        'Hanspach Del Rio, E. (2022). Planta de proceso cacao orgánico pinhalense Perú. Comersa Trading S.A.C.',
+      link: 'https://www.comersatrading.com/post/maquinas-cacao-peru',
+    },
+    {
+      referencia:
         'Ministerio de Agricultura y Desarrollo Rural. (2021). Cadena de cacao.',
       link:
         'https://sioc.minagricultura.gov.co/Cacao/Documentos/2021-03-31%20Cifras%20Sectoriales.pdf',
@@ -328,6 +333,11 @@ export default {
         'Servicio Nacional de Aprendizaje (SENA). (2019). Características sensoriales de granos y licor de cacao por un panel de jueces en entrenamiento.',
       link:
         'https://revistas.sena.edu.co/index.php/sennova/article/view/3232/4026',
+    },
+    {
+      referencia:
+        'Visual grano cortado. (s.f.). [Fotografía]. Fuente desconocida.',
+      link: '',
     },
   ],
   creditos: [
