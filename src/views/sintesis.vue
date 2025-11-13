@@ -6,7 +6,7 @@
     
     .row.justify-content-center
       .col-lg-12.mb-5
-        img(src="@/assets/curso/sintesis.png", alt="Muestra un diagrama jerárquico titulado “Calidad del grano de cacao”. El esquema se divide en tres ramas principales: Factores de calidad del grano de cacao (que incluye factores físicos, organolépticos, sanitarios, criterios de aceptación y normas nacionales e internacionales), técnicas de análisis y evaluación de calidad (corte del grano, evaluación sensorial, medición de humedad, detección de impurezas y evaluación de fermentación) y Importancia de la calidad del cacao (relación con el proceso de recepción, impacto en la cadena de valor, clasificación comercial del grano y uso en la agroindustria).")
+        img(src="@/assets/curso/sintesis.png", alt="Muestra un diagrama jerárquico titulado “Calidad del grano de cacao”. El esquema se divide en tres ramas principales: Factores de calidad del grano de cacao (que incluye factores físicos, organolépticos, sanitarios, criterios de aceptación y normas nacionales e internacionales), técnicas de análisis y evaluación de calidad (corte del grano, evaluación sensorial, medición de humedad, detección de impurezas y evaluación de fermentación) e importancia de la calidad del cacao (relación con el proceso de recepción, impacto en la cadena de valor, clasificación comercial del grano y uso en la agroindustria).")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
